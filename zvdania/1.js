@@ -20,3 +20,5 @@ const result1 =
   numberoffMoth +
   " месяцев. Я (не) уверен что пройду этот курс до конца.";
 console.log(result1);
+
+
